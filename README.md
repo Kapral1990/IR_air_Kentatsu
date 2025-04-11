@@ -18,13 +18,8 @@
 - Библиотеки:
   - [HomeSpan](https://github.com/HomeSpan/HomeSpan)
   - [IRremoteESP8266](https://github.com/crankyoldgit/IRremoteESP8266)
-  
-## 📥 Установка
-1. Клонируйте репозиторий:
-```bash
-git clone https://github.com/Kapral1990/IR_air_Kentatsu.git
-```bash
-
+ 
+  - 
 # Control Kentatsu Air Conditioner via HomeKit with Samsung TV Integration
 
 This project enables control of a Kentatsu air conditioner through Apple HomeKit using an ESP32 as an IR transceiver. Additionally implements Samsung TV control functionality.
@@ -44,8 +39,10 @@ This project enables control of a Kentatsu air conditioner through Apple HomeKit
 - Libraries:
   - [HomeSpan](https://github.com/HomeSpan/HomeSpan)
   - [IRremoteESP8266](https://github.com/crankyoldgit/IRremoteESP8266)
-
-## 📥 Installation
-1. Clone the repository:
+  
+## 📥 Установка
+1. Клонируйте репозиторий/ Clone the repository::
 ```bash
 git clone https://github.com/Kapral1990/IR_air_Kentatsu.git
+```bash
+
