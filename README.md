@@ -23,7 +23,7 @@
 1. Клонируйте репозиторий:
 ```bash
 git clone https://github.com/Kapral1990/IR_air_Kentatsu.git
-
+```bash
 
 # Control Kentatsu Air Conditioner via HomeKit with Samsung TV Integration
 
